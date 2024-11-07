@@ -1,0 +1,28 @@
+
+ .header {
+    width: 980px;
+    height: 140px;
+    background-color: #000000;
+ }
+ .main {
+    display: flex;
+    width: 980px;
+    margin-top: 10px;
+ }
+ .sidebar {
+    width: 270px;
+    height: 450px;
+    background-color: #ff0000; 
+ }
+ .content {
+    width: 700px;
+    height: 450px;
+    background-color: #ffd000; 
+    margin-left: 10px;
+ }
+ .footer {
+    width: 980px;
+    height: 70px;
+    background-color: #ff00f2; 
+    margin-top: 10px;
+ }
